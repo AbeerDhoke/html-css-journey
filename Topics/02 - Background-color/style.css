@@ -1,0 +1,16 @@
+h1{
+    color: rgb(4, 24, 135);
+}
+p{
+    color: red;
+
+}
+ /* this is an example of Hexadecimal color system */
+button{
+    color: black;
+    background-color: #0003fc;
+}
+ /* this is an example of rgb color system */
+body{
+    background-color: rgb(255,255,00);  
+}
