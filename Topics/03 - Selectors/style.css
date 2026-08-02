@@ -1,0 +1,15 @@
+*{
+    color: rgb(207, 13, 187);
+}
+p{
+color: black;
+}
+#Heading1{
+    color: blueviolet;
+}
+#Heading2{
+    color: chocolate;
+}
+.Myclass{
+   color: cyan; 
+}

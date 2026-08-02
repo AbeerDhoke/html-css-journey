@@ -6,8 +6,9 @@ Documenting my journey of learning HTML and CSS through hands-on practice and re
 
 - ✅ Foreground Color
 - ✅ Background Color
-- ⏳ Color System
-
+- ✅ Color System
+- ✅ Selectors
+- ✅ Text Properties
 > More topics will be added as I continue learning.
 
 ---

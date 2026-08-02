@@ -1,0 +1,20 @@
+#one{
+    font-weight: lighter;
+    text-decoration: underline;
+}
+#two{
+    font-weight: 900;
+}
+#paragraph1{
+    text-align: left;
+    text-decoration: red overline;
+    color: red;
+    font-family: Arial;
+}
+#paragraph2{
+    text-align: right;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
