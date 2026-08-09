@@ -1,0 +1,33 @@
+h1{
+    background-color: brown;
+    display: inline;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: yellow;
+}
+#box3{
+    background-color: rgba(9, 128, 0, 0.732);
+}
+#box4{
+    background-color: chocolate;
+    visibility: hidden;
+}
+#box5{
+    background-color: rgba(217, 32, 32, 0.75);
+    display: none;
+}
+button{
+    display: block;
+    background-color: grey;
+}
