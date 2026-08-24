@@ -10,3 +10,8 @@ div{
     top:20px;
     left: 40px;
 }
+#b{
+    background-color: darkgreen;
+    position: absolute;
+    
+}

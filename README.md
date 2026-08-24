@@ -9,6 +9,13 @@ Documenting my journey of learning HTML and CSS through hands-on practice and re
 - ✅ Color System
 - ✅ Selectors
 - ✅ Text Properties
+- ✅ Absolute - Units
+- ✅ Box Model
+- ✅ Display and Visibility property  
+- ✅ Positions
+- ✅ Flexbox
+- ✅ Media Queries
+- ✅ Basic Navbar
 > More topics will be added as I continue learning.
 
 ---
