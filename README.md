@@ -16,6 +16,7 @@ Documenting my journey of learning HTML and CSS through hands-on practice and re
 - ✅ Flexbox
 - ✅ Media Queries
 - ✅ Basic Navbar
+- ✅ Amazon Clone
 > More topics will be added as I continue learning.
 
 ---
